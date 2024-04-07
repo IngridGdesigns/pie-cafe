@@ -2,7 +2,7 @@
 
 A mobile first responsive design website using flex-layout
 
-Live site: [pie cafe](pie-cafe.netlify.app/)
+Live site: [pie cafe](https://pie-cafe.netlify.app/)
 
 Quick start:
 
