@@ -1,6 +1,6 @@
 # pie-cafe
 
-A mobile first responsive design website using flex-layout
+A mobile first responsive design website using flex-layout, pracice flex and media queries
 
 Live site: [pie cafe](https://pie-cafe.netlify.app/)
 
