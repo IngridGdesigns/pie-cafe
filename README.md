@@ -14,7 +14,7 @@ Live site: [pie cafe](https://pie-cafe.netlify.app/)
 
 <img src="https://github.com/IngridGdesigns/pie-cafe/blob/main/images/desktop1.png">
 
-<img src="https://github.com/IngridGdesigns/pie-cafe/blob/main/images/desktop2.png">
+
 
 
 
